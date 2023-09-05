@@ -5,41 +5,39 @@ title: Abhiram Polisetti's Resume
 
 # Abhiram Polisetti
 
-![Abhiram Polisetti](/assets/img/image.jpg)
+<img src="/assets/img/image.jpg" alt="Abhiram Polisetti" width="200px" height="200px">
+
 
 **Location:** Hyderabad, Telangana, India  
 **Email:** abhirampolisetti@gmail.com  
 **LinkedIn:** [linkedin.com/in/abhiram-polisetti-84a34222b](https://linkedin.com/in/abhiram-polisetti-84a34222b)
 
 ## Summary
-Driven student pursuing Bachelor of Technology in Artificial Intelligence and Data Science. Experienced in
-machine learning, data analytics, and visualization. Demonstrated leadership directing a Centre of Excellence
-for Meta-Tech at Woxsen University. Passionate about cutting-edge technologies and connecting ideas across
-disciplines. Seeking opportunities to apply technical skills and grow a professional network.
 
-**Experience:**
+Driven student pursuing a Bachelor of Technology in Artificial Intelligence and Data Science with a strong foundation in machine learning, data analytics, and visualization. Demonstrated leadership as Co-Chairperson of the Centre of Excellence for Meta-Tech at Woxsen University. Passionate about cutting-edge technologies and bridging interdisciplinary ideas. Seeking opportunities to apply technical skills and expand a professional network.
 
-- **Co-Chairperson of Centre of Excellence for Meta-Tech**
-   - Woxsen University
-   - October 2022 - Present (1 year)
+## Experience
 
-- **Research Assistant**
-   - Woxsen University
-   - October 2022 - Present (1 year)
+**Co-Chairperson of Centre of Excellence for Meta-Tech**  
+*Woxsen University*  
+October 2022 - Present (1 year)
 
-- **Research Intern**
-   - AppsTek Corp
-   - February 2023 - July 2023 (6 months)
-   - During internship I worked on Enhancing the Image Quality Project supporting the Artificial Intelligence
-(AI) team to significantly improve the deep learning model prediction accuracy.
+**Research Assistant**  
+*Woxsen University*  
+October 2022 - Present (1 year)
 
-**Education:**
+**Research Intern**  
+*AppsTek Corp*  
+February 2023 - July 2023 (6 months)  
+- Enhanced Image Quality Project, collaborating with the Artificial Intelligence (AI) team to significantly improve deep learning model prediction accuracy.
 
-- **Woxsen University**
-   - Bachelor of Technology - BTech, Artificial Intelligence and Data science
-   - September 2021 - May 2025
+## Education
 
-**Licenses & Certifications:**
+**Bachelor of Technology - BTech, Artificial Intelligence and Data Science**  
+*Woxsen University*  
+September 2021 - May 2025
+
+## Licenses & Certifications
 
 - Python for Data Science, AI & Development - Coursera (Certificate ID: FMVTMPHW63SP)
 - AI For Everyone - Coursera (Certificate ID: BLJM47W2NBSG)
@@ -49,11 +47,10 @@ disciplines. Seeking opportunities to apply technical skills and grow a professi
 - Machine Learning with Python (with Honors) - Coursera (Certificate ID: M8EMEY8XA6XM)
 - Introduction to Deep Learning & Neural Networks with Keras - Coursera (Certificate ID: N4BY46FMHBNP)
 
-**Skills:**
+## Skills
 
 - Problem Solving
 - Data Analytics
 - Machine Learning
 - Data Visualization
 - Python (Programming Language)
-
